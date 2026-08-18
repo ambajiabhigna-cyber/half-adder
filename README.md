@@ -1,2 +1,2 @@
-# half-adder
-my  verilog project
+l# half-adder
+my verilog project
